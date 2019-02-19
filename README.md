@@ -1,5 +1,10 @@
 # Language Distance with Perplexity
 
+A final assignment for LDA-3103 Digitaalinen lingvistiikka.
+
+To see how we reproduced the study, check Digital_Age_team_1.pdf.
+
+ORIGINAL:
 ## Authors:
 * Pablo Gamallo, CiTIUS, USC
 * José Ramom Pichel, Imaxin
